@@ -1,0 +1,1 @@
+This project is an implementation of insertion sort on an array with 20 items. This may get forked later to implement file handling.
